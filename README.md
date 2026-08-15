@@ -19,7 +19,7 @@ Each component : attention, positional encoding, feed-forward layers, encoder an
 | `Decoder.py` | Stacks `N` decoder layers |
 | `Transformer.py` | Combines encoder, decoder, embeddings, and output projection |
 
-##Feedback
+## Feedback
 I welcome feedback and suggestions for improving this repository. Please feel free to reach out to me via email or GitHub issues.
 
 
